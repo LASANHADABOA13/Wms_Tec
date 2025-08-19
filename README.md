@@ -1,2 +1,2 @@
-# Wms_Tec
+# Wms_Etec
 # Warehouse Management System
